@@ -1,0 +1,63 @@
+#carrot {
+  position: absolute;
+  left: 5%;
+  top: 20%;
+}
+
+#beetroot{
+  position: absolute;
+  left: 5%;
+  top: 80%;
+}
+
+#spinach {
+  position: absolute;
+  left: 30%;
+  top: 20%;
+}
+
+#potato{
+  position: absolute;
+  left: 30%;
+  top: 80%;
+}
+#peas {
+  position: absolute;
+  left: 55%;
+  top: 20%;
+}
+
+#cucumber{
+  position: absolute;
+  left: 55%;
+  top: 80%;
+}
+
+#onion {
+  position: absolute;
+  left: 80%;
+  top: 20%;
+}
+
+#tomato{
+  position: absolute;
+  left: 80%;
+  top: 80%;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.collapse {
+  font-size: 20px;
+}
+
+.navbar-brand {
+  position: absolute;
+  left: 42%;
+  display: block;
+  width: 160px;
+  text-align: center;
+  background-color: transparent;
+}
